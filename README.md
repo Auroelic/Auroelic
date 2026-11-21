@@ -16,7 +16,7 @@
 
 ---
 
-### 🧰 Tech
+### Tech
 
 <div align="center">
 
@@ -33,7 +33,7 @@
 
 ---
 
-### 🚀 Featured project
+### Featured project
 
 <div align="center">
 
@@ -48,7 +48,7 @@ Real-time server monitoring dashboard. **FastAPI + psutil**, WebSocket live upda
 
 ---
 
-### 📌 Other public projects
+### Other public projects
 
 | Project | Description |
 |---|---|
@@ -57,7 +57,7 @@ Real-time server monitoring dashboard. **FastAPI + psutil**, WebSocket live upda
 
 ---
 
-### 📊 GitHub stats
+### GitHub stats
 
 <div align="center">
 
